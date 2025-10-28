@@ -1,4 +1,4 @@
-<h1 style='text-align: center;'>Smogon Silva Reis</h1>
+<h1 style='text-align: center;'>Hendrick - Front & (quase)Back-end</h1>
 
 <div align=center>
  
